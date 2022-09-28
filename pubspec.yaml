@@ -1,5 +1,5 @@
 name: weighted_random_picker
-description: A starting point for Dart libraries or applications.
+description: The elements of the array given to the constructor can be randomly picked with weights according to the probabilityWeight property of each element.
 version: 1.0.0
 homepage: https://github.com/malt03/weighted_random_picker
 
