@@ -11,7 +11,4 @@ class Tuple2<T1, T2> {
 
   @override
   get hashCode => Object.hash(a, b);
-
-  @override
-  toString() => '($a, $b)';
 }

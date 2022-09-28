@@ -8,7 +8,4 @@ class BinaryTreeNode<T> {
   T value;
 
   BinaryTreeNode(this.parent, this.left, this.right, this.index, this.value);
-
-  @override
-  toString() => '{index:$index,value:$value}';
 }
